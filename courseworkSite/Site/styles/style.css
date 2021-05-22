@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+table, thead{
+    margin:auto;
+    border-radius: 15px;
+    background-color: #aaa;
+    border-collapse: collapse;
+    width:90vw;
+}
+thead>tr{
+    background-color: #aaa;
+}
+
+tr:nth-of-type(event){
+    background-color: #eee;
+}
+td,th{
+    border: none;
+    width: 20%;
+    display: inline-block;
+    padding: 10px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.home{
+    /*background-image: url('');*/
+    background-size: cover;
+}
