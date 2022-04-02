@@ -9,20 +9,20 @@ I must say, not perfect work, but i tried:D Then I was very inexperienced.
 This coursework was completed in May 2021.
 
 # The following technologies were used in this work
-### Frontend:
+### [Frontend](https://github.com/B1az333/coursework/tree/main/courseworkSite):
  - HTML
  - CSS
  - Bootstrap
  - Javascript
 
-### Backend:
+### [Backend](https://github.com/B1az333/coursework/tree/main/main):
  - Java (Spring boot)
  - mySQL
 
 # Result
 I bring to your attention, a small set of screenshots with the result.
 
-If you want to get acquainted with the program in more detail, you can find documentation in Ukrainian in the root of the project
+If you want to get acquainted with the program in more detail, you can find [documentation](https://github.com/B1az333/coursework/blob/main/Documentation.pdf) in Ukrainian in the root of the project
 
 ### Main page
 ![alt text](screenshots/main_page.png "Main page")
